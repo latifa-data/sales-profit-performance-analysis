@@ -67,6 +67,13 @@ Based on the analysis:
 - Review lower-performing regions and products to identify improvement opportunities.
 - Use sales and profit KPIs regularly to support business decisions.
 - Monitor product and regional performance over time.
+## 📝 Conclusion
+This project demonstrates how Excel and Power Query can be used to clean, transform, analyze, and visualize sales data.
+
+The analysis identified differences in sales and profit across regions and product categories. The dashboard provides a clear view of business performance and supports data-driven decision-making.
+
+This project helped develop practical skills in data cleaning, data analysis, Pivot Tables, and dashboard creation using Microsoft Excel.
+
 ## 📸 Project Screenshots
 
 ### Dashboard
