@@ -67,6 +67,17 @@ Based on the analysis:
 - Review lower-performing regions and products to identify improvement opportunities.
 - Use sales and profit KPIs regularly to support business decisions.
 - Monitor product and regional performance over time.
+## 📸 Project Screenshots
+
+### Dashboard
+![Dashboard](./01_Dashboard.png)
+
+### Power Query Data Cleaning
+![Power Query Data Cleaning](./02_Power_Query_Data_Cleaning.png)
+
+### Pivot Table – Sales & Profit
+![Pivot Table Sales & Profit](./03_Pivot_Table_Sales_profit.png)
+
 
 ## 📁 Project File
 
